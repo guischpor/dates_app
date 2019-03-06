@@ -165,7 +165,7 @@ class _CupertinoDateState extends State<CupertinoDate> {
                     ),
                   ),
                   Padding(
-                    padding: EdgeInsets.only(left: 36.0),
+                    padding: EdgeInsets.only(left: 20.0),
                     child: RaisedButton(
                       onPressed: _showDatePicker,
                       child: Icon(
